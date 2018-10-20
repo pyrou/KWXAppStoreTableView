@@ -1,3 +1,3 @@
 # AppStore tiles touch effect
 
-![](./screenshot.gif)
+![](https://raw.githubusercontent.com/pyrou/KWXAppStoreTableView/master/screenshot.gif)
